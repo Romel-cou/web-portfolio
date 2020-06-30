@@ -17,7 +17,7 @@ p{
 
 .half-width{
     width: 40%;
-    float: left;
+    float: left;    
     margin-left: 5%;
     padding-left: 2%;
 }
@@ -57,6 +57,7 @@ section{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    display: inline-block;
 
 }
 #full-stack{
@@ -72,5 +73,5 @@ section{
 footer p{
     text-align: center;
     font-size: 12px;
+    font-weight: 700;
 }
-
